@@ -13,12 +13,23 @@ function addItem ( item ) {
 
 console.log('i added to baskets. The array now contains:', baskets, addItem('car') );
 
-function listItems() {
-    for( i=0, i<baskets.length; i++) {
-        console.log('in listItems funct', baskets[i] );
-        
-       
-    }
+// function listItems(items) {
+//     for( i=0, i<baskets.length; i++) {
+//         console.log('in listItems funct', baskets[i] );
+//         let item = items;
 
-}
-console.log('test listitems of baskets', listItems());
+//         return;
+       
+//     }
+
+// }
+
+// function listItems(){
+    while (let i=0; i< array.length; i++) {
+          console.log(‘If true, value found is-->‘, array[i]);
+//           return true;
+    }
+//   }
+
+
+console.log('test listitems of baskets', listItems(baskets));
