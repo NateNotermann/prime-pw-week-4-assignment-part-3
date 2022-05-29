@@ -6,7 +6,7 @@ This week we'll be pulling together all of the Javascript techniques you've lear
 
 - variables
 - arrays
-- conditionals
+- conditionalsws
 - functions
 - HTML & CSS
 
