@@ -32,12 +32,17 @@ Update the `cart.js` file to do the following:
   <!-- added return true-->
 
 - Create a function called `listItems`. It should:
+<!-- created function called list items-->
   - loop over the items in the `basket` array
+  <!-- uses a for loop to go through the array-->
   - console.log each individual item on a new line
+  <!--console.logs each item-->
+  <!-- added items just to double check function works-->
 
 - Create a function called `empty`. It should:
+<!-- created function called empty-->
   - reset the `basket` to an empty array
-
+    <!--it clears in the function, but doesnt clear array outside of the function. Not sure if this is correct?-->
 > __IMPORTANT__
 > Make sure that you are writing code *in the file* to test every function that you write!
 
